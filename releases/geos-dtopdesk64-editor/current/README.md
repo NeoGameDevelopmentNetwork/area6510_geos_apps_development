@@ -1,5 +1,5 @@
 # Area6510
 
 # DTOPDESK64-EDITOR
-Released: 2024/10/11 20:00
-Version : V1.02
+Released: 2025/05/29 20:00
+Version : V1.05
