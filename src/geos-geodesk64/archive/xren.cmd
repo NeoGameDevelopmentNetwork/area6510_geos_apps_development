@@ -1,0 +1,15 @@
+REN	geodesk64-v0.0src.zip	geodesk64-v0.0-src.zip
+REN	geodesk64-v0.1src.zip	geodesk64-v0.1-src.zip
+REN	geodesk64-v0.2src.zip	geodesk64-v0.2-src.zip
+REN	geodesk64-v0.3src.zip	geodesk64-v0.3-src.zip
+REN	geodesk64-v0.4src.zip	geodesk64-v0.4-src.zip
+REN	geodesk64-v0.9src.zip	geodesk64-v0.9-src.zip
+REN	geodesk64-v0._src.zip	geodesk64-v0._-src.zip
+REN	geodesk64-v1.01src.zip	geodesk64-v1.01-src.zip
+REN	geodesk64-v1.02src.zip	geodesk64-v1.02-src.zip
+REN	geodesk64-v1.03src.zip	geodesk64-v1.03-src.zip
+REN	geodesk64-v1.04src.zip	geodesk64-v1.04-src.zip
+REN	geodesk64-v1.067src.s.zip	geodesk64-v1.067-src.s.zip
+REN	geodesk64-v1.067src.zip	geodesk64-v1.067-src.zip
+REN	geodesk64-v1.06src.zip	geodesk64-v1.06-src.zip
+REN	geodesk64-v1.0src.zip	geodesk64-v1.0-src.zip
