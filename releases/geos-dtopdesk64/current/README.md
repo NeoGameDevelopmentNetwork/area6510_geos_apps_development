@@ -1,5 +1,5 @@
 # Area6510
 
 # DTOPDESK64
-Released: 2025/06/23 20:00
-Version : V1.06
+Released: 2026/09/05 20:00
+Version : V1.07

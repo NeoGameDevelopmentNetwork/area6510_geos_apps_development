@@ -1,5 +1,4 @@
 # Area6510
 
-# DTOPDESK64
-Released: 2024/08/23 20:00
-Version : V1.00
+### DTOPDESK64 - REBUILD_V5
+This is the reconstructed source code from TopDesk64 V5.0de R.01 (2021/12/28).
